@@ -2,7 +2,7 @@
 The VR SocialRoom is a virtual reality social media focused in the experience of a personal museum in virtual reality where the user can decorate it with photos, videos, prizes, collections, sketches and all that matters in their live.
 
 ![alt tag](https://github.com/devreis/VRSocialRoom/blob/master/documentation/Screenshot.png?raw=true)
-![alt tag] (https://vimeo.com/206160564)
+
 
 ##The concept
 The concept of the app is the human experience factor in VR. We want to build a VR experience that could lead people of all the ages to remember their best moments and feel it again. Another goal is stimulate the users through the option of share their museum with others, what could stimulate a more admirable way of life. We think that remember and share memories stimulate the persons to have more empathy and make better social connections.
