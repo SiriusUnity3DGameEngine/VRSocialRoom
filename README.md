@@ -1,5 +1,5 @@
 # VRSocialRoom
-The VR SocialRoom is a virtual reality social media focused in the experience of a personal museum in virtual reality where the user can decorate it with photos, videos, prizes, collections, sketches and all that matters in their live.
+The VR SocialRoom is a virtual reality social media focused in the experience of a personal museum where the user can decorate it with photos, videos, prizes, collections, sketches and all that matters in their live.
 
 ![alt tag](https://github.com/devreis/VRSocialRoom/blob/master/documentation/Screenshot.png?raw=true)
 
