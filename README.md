@@ -37,7 +37,7 @@ To run the VR experiences you will need to follow these steps:
 - Open the downloaded project and click the GVR Unity installer and import all*
 - Build and export the app for your platform 
 
-* If you see any Unity error follow these steps:
+### If you see any Unity error follow these steps:
 
 - Select the option **Import All** in Unity
 - Restart the Project
