@@ -38,7 +38,7 @@ _Alexandre Lima_: initial sketch mentioning an idea about a personal museum, but
 
 To run the VR experiences you will need to follow these steps:
 
-**Tested on Unity 5.5.2f1 and GVR 1.20**
+**Tested on Unity 5.5.2f1 and GVR 1.30**
 
 - Download the Google GVR SDK for Unity indicated on the README.md project 
 - Open the downloaded project and click the GVR Unity installer and import all*
