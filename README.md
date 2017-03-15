@@ -16,9 +16,9 @@ In the present moment is only a room with some objects and movement mechanic (we
 The movement script was did in C# with Coroutines and event trigger. Also was did an object that indicates movement, so the user can see and teleport through it.
 We created the objects (except the small frame called frame3) with SketchUp and Blender, and the ambient music with Logic Pro X. The PBR used was the Unity one, and we chose it because we wanted to make a higher quality graphic even in Cardboard.
 
-_Victor Reis_: SketchUp, paintings on Adobe Photoshop, photography and Logic Pro X.
-_Thiago Seronni_: C# movement script and Blender.
-_Alexandre Lima_: initial sketch mentioning an idea about a personal museum, but not a social media app or the design of it.
+- _Victor Reis_: SketchUp, paintings on Adobe Photoshop, photography and Logic Pro X.
+- _Thiago Seronni_: C# movement script and Blender.
+- _Alexandre Lima_: initial sketch mentioning an idea about a personal museum, but not a social media app or the design of it.
 
 ## Next steps of development
 
