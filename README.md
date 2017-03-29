@@ -38,6 +38,10 @@ We created the objects (except the small frame called frame3) with SketchUp and 
 
 To run the VR experiences you will need to follow these steps:
 
+###Android
+
+Download the [.apk](https://www.dropbox.com/s/2wpejkihuo5z203/VRSocialRoomv3.apk?dl=0)
+
 **Tested on Unity 5.5.2f1 and GVR 1.30**
 
 - Download the Google GVR SDK for Unity indicated on the README.md project 
