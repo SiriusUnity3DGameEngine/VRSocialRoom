@@ -40,7 +40,7 @@ To run the VR experiences you will need to follow these steps:
 
 ### Android
 
-Download the [.apk](https://www.dropbox.com/s/2wpejkihuo5z203/VRSocialRoomv3.apk?dl=0)
+Download and install the [.apk](https://www.dropbox.com/s/2wpejkihuo5z203/VRSocialRoomv3.apk?dl=0)
 
 **Tested on Unity 5.5.2f1 and GVR 1.30**
 
